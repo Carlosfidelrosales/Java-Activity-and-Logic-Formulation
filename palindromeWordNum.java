@@ -1,6 +1,6 @@
 public class palindromeWordNum {
     public static void main(String[] args) {
-        String original = "abba"; // the word being tested
+        String original = "racecar"; // the word being tested
         String reversed = "";
 
         // original string will be tested by reversing each of characters/numbers
